@@ -1,0 +1,3 @@
+git 학습용.
+
+this is git repository to learn git.
